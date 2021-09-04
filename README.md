@@ -1,4 +1,4 @@
-# psql
+# PSQL
 PSQL Tutorial - study
 
 The main idea is to complet this tutorial: https://www.postgresqltutorial.com/postgresql-python/
